@@ -15,5 +15,10 @@
     "url": "https://github.com/robkarimi/teabag-christmas/issues"
   },
   "homepage": "https://github.com/robkarimi/teabag-christmas#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
 }
